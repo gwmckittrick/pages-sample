@@ -3,7 +3,11 @@ layout: default
 title: Home
 ---
 
-## Welcome everyone to my spiffy site!
+## What ya doin fishing in my waters?
+
+  Colorado State
+  Fort Collins
+  Dog
 
 
 #### Here are some example pages:
